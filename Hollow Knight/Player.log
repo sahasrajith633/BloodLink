@@ -1,0 +1,938 @@
+Mono path[0] = 'I:/Medal/hollow knight/Hollow Knight/hollow_knight_Data/Managed'
+Mono config path = 'I:/Medal/hollow knight/Hollow Knight/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.61f1 (74a0adb02c31)
+[Subsystems] Discovering subsystems at path I:/Medal/hollow knight/Hollow Knight/hollow_knight_Data/UnitySubsystems
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x5912)
+    Vendor:   Intel
+    VRAM:     4040 MB
+    Driver:   31.0.101.2140
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 10.767 seconds
+- Finished resetting the current domain, in  0.004 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+Using Windows.Gaming.Input
+<RI> Input initialized.
+UnloadTime: 184.577100 ms
+Steam initializing
+Steam logged in as SteamRIP
+Selected online subsystem SteamOnlineSubsystem
+Couldn't find a Game Manager, make sure one exists in the scene.
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH, ZH_TW
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 4274.
+Total: 47.243000 ms (FindLiveObjects: 0.857400 ms CreateObjectMapping: 0.264800 ms MarkObjects: 46.052300 ms  DeleteObjects: 0.065000 ms)
+
+Couldn't find GameCameras, make sure one exists in the scene.
+Steam stats received.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Didn't need to wait for PlayerPrefs load.
+Couldn't find GameCameras, make sure one exists in the scene.
+UnloadTime: 33.993800 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+Performing automatic level start.
+Failed to retrieve achievement state for ENDING_C
+Failed to retrieve achievement state for STEELSOUL
+Game controller set to None.
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+pd.maxHealth: 8 pd.maxHealthBase: 8
+pd.maxHealth: 5 pd.maxHealthBase: 5
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 47392.
+Total: 169.797700 ms (FindLiveObjects: 16.005700 ms CreateObjectMapping: 4.965000 ms MarkObjects: 148.467800 ms  DeleteObjects: 0.358900 ms)
+
+Making UI menu lean.
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 207 unused Assets to reduce memory usage. Loaded Objects now: 51233.
+Total: 85.874100 ms (FindLiveObjects: 6.102300 ms CreateObjectMapping: 2.308600 ms MarkObjects: 70.427000 ms  DeleteObjects: 7.035600 ms)
+
+Attempting to update blur with no renderer. Will try to find it now...
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+No area with identifier "PALACE_GROUNDS" found in area list. Creating default SubArea.
+No area with identifier "HIDDEN_STATION" found in area list. Creating default SubArea.
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Could not find FSM: Enough Geo
+LoadLevel: Cinematic_Stag_travel
+Unloading 51 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.238400 ms
+Performing automatic level start.
+Unloading 2259 unused Assets to reduce memory usage. Loaded Objects now: 56039.
+Total: 85.117400 ms (FindLiveObjects: 6.666800 ms CreateObjectMapping: 3.641500 ms MarkObjects: 69.523300 ms  DeleteObjects: 5.285200 ms)
+
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for I:\Medal\hollow knight\Hollow Knight\hollow_knight_Data\sharedassets8.resource
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. I:\Medal\hollow knight\Hollow Knight\hollow_knight_Data\sharedassets8.resource
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+No Tilemap, refreshing GameManager
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Could not find FSM: Enough Geo
+Could not find FSM: advance_conversation
+Could not find FSM: Enough Geo
+LoadLevel: Cinematic_Stag_travel
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.966700 ms
+Performing automatic level start.
+Unloading 1656 unused Assets to reduce memory usage. Loaded Objects now: 56234.
+Total: 107.286800 ms (FindLiveObjects: 13.501000 ms CreateObjectMapping: 3.800900 ms MarkObjects: 81.424900 ms  DeleteObjects: 8.559300 ms)
+
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for I:\Medal\hollow knight\Hollow Knight\hollow_knight_Data\sharedassets8.resource
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. I:\Medal\hollow knight\Hollow Knight\hollow_knight_Data\sharedassets8.resource
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+No Tilemap, refreshing GameManager
+Unsupported type: null
+Object Pool attached to GlobalPool has run out of White Flash R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+Additively loaded scene: Fungus3_23_boss in sequence
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool could not find a copy of Audio Player NoDestroy, Instantiating a new one.
+No Tilemap, refreshing GameManager
+Unloading 70 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2142 unused Assets to reduce memory usage. Loaded Objects now: 58403.
+Total: 96.186800 ms (FindLiveObjects: 6.589800 ms CreateObjectMapping: 2.876600 ms MarkObjects: 72.039600 ms  DeleteObjects: 14.680200 ms)
+
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Could not find FSM: Enough Geo
+LoadLevel: Cinematic_Stag_travel
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.113800 ms
+Performing automatic level start.
+Unloading 606 unused Assets to reduce memory usage. Loaded Objects now: 56616.
+Total: 84.772000 ms (FindLiveObjects: 4.592100 ms CreateObjectMapping: 2.475700 ms MarkObjects: 71.182400 ms  DeleteObjects: 6.521400 ms)
+
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for I:\Medal\hollow knight\Hollow Knight\hollow_knight_Data\sharedassets8.resource
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. I:\Medal\hollow knight\Hollow Knight\hollow_knight_Data\sharedassets8.resource
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+No Tilemap, refreshing GameManager
+Unsupported type: null
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Additively loaded scene: Fungus3_23_boss in sequence
+Object Pool attached to GlobalPool has run out of Hit Flash Black prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+No Tilemap, refreshing GameManager
+Unloading 65 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1424 unused Assets to reduce memory usage. Loaded Objects now: 62780.
+Total: 83.922400 ms (FindLiveObjects: 4.646600 ms CreateObjectMapping: 2.790900 ms MarkObjects: 70.833800 ms  DeleteObjects: 5.650500 ms)
+
+Unsupported type: null
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Additively loaded scene: Fungus3_23_boss in sequence
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+No Tilemap, refreshing GameManager
+Unloading 65 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1388 unused Assets to reduce memory usage. Loaded Objects now: 62894.
+Total: 85.031600 ms (FindLiveObjects: 4.619500 ms CreateObjectMapping: 2.747300 ms MarkObjects: 72.957500 ms  DeleteObjects: 4.706800 ms)
+
+Unsupported type: null
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Additively loaded scene: Fungus3_23_boss in sequence
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+No Tilemap, refreshing GameManager
+Unloading 65 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1373 unused Assets to reduce memory usage. Loaded Objects now: 63007.
+Total: 84.072100 ms (FindLiveObjects: 4.570000 ms CreateObjectMapping: 2.874600 ms MarkObjects: 71.461800 ms  DeleteObjects: 5.165200 ms)
+
+Unsupported type: null
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+nailDamage: 17, multiplied: 21.25
+nailDamage: 17, multiplied: 21.25
+Additively loaded scene: Fungus3_23_boss in sequence
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+No Tilemap, refreshing GameManager
+Unloading 65 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1370 unused Assets to reduce memory usage. Loaded Objects now: 63103.
+Total: 86.035000 ms (FindLiveObjects: 6.136100 ms CreateObjectMapping: 2.784900 ms MarkObjects: 72.007000 ms  DeleteObjects: 5.106500 ms)
+
+Unsupported type: null
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Additively loaded scene: Fungus3_23_boss in sequence
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+No Tilemap, refreshing GameManager
+Unloading 65 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1378 unused Assets to reduce memory usage. Loaded Objects now: 63183.
+Total: 86.132000 ms (FindLiveObjects: 4.559600 ms CreateObjectMapping: 2.851100 ms MarkObjects: 73.551200 ms  DeleteObjects: 5.169500 ms)
+
+Unsupported type: null
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Additively loaded scene: Fungus3_23_boss in sequence
+Object Pool attached to GlobalPool has run out of Black Wave Default R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Black Wave Default R prefabs, Instantiating an additional one.
+Failed to retrieve achievement state for TRAITOR_LORD
+Pushing achievement TRAITOR_LORD
+Bump Height: 0.001354218
+Bump Height: 0.001354218
+No Tilemap, refreshing GameManager
+Object Pool attached to GlobalPool could not find a copy of Plat Grass, Instantiating a new one.
+Object Pool attached to GlobalPool has run out of Plat Grass prefabs, Instantiating an additional one.
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for ATTUNEMENT
+Unsupported type: null
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Could not find FSM: Enough Geo
+LoadLevel: Cinematic_Stag_travel
+Unloading 71 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.722400 ms
+Performing automatic level start.
+Unloading 3245 unused Assets to reduce memory usage. Loaded Objects now: 57212.
+Total: 94.307900 ms (FindLiveObjects: 4.133500 ms CreateObjectMapping: 2.925000 ms MarkObjects: 72.018100 ms  DeleteObjects: 15.231000 ms)
+
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for I:\Medal\hollow knight\Hollow Knight\hollow_knight_Data\sharedassets8.resource
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. I:\Medal\hollow knight\Hollow Knight\hollow_knight_Data\sharedassets8.resource
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+No Tilemap, refreshing GameManager
+No area with identifier "HIDDEN_STATION" found in area list. Creating default SubArea.
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Could not find FSM: Enough Geo
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+PlayerData: Could not find field named , check variable name exists and FSM variable string is correct.
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Unloading 62 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2247 unused Assets to reduce memory usage. Loaded Objects now: 60049.
+Total: 88.743000 ms (FindLiveObjects: 8.881400 ms CreateObjectMapping: 3.047000 ms MarkObjects: 67.948000 ms  DeleteObjects: 8.866100 ms)
+
+Couldn't get static variable: skipRemoveDreamOrbs
+Failed to retrieve achievement state for ATTUNEMENT
+Could not find FSM: Enough Geo
+LoadLevel: Cinematic_Stag_travel
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.270100 ms
+Performing automatic level start.
+Unloading 942 unused Assets to reduce memory usage. Loaded Objects now: 57377.
+Total: 83.657600 ms (FindLiveObjects: 4.465400 ms CreateObjectMapping: 2.581000 ms MarkObjects: 73.059000 ms  DeleteObjects: 3.551800 ms)
+
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for I:\Medal\hollow knight\Hollow Knight\hollow_knight_Data\sharedassets8.resource
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. I:\Medal\hollow knight\Hollow Knight\hollow_knight_Data\sharedassets8.resource
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+No Tilemap, refreshing GameManager
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Additively loaded scene: Grimm_Main_Tent_boss in sequence
+Unsupported type: null
+Object Pool attached to GlobalPool could not find a copy of Uninfected Hit Pt, Instantiating a new one.
+Object Pool attached to GlobalPool has run out of Uninfected Hit Pt prefabs, Instantiating an additional one.
+Unsupported type: null
+Unsupported type: null
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Grimm UP Ball prefabs, Instantiating an additional one.
+No Tilemap, refreshing GameManager
+Unloading 31 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1430 unused Assets to reduce memory usage. Loaded Objects now: 62681.
+Total: 255.129500 ms (FindLiveObjects: 16.442300 ms CreateObjectMapping: 10.337500 ms MarkObjects: 198.193900 ms  DeleteObjects: 30.152900 ms)
+
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Additively loaded scene: Grimm_Main_Tent_boss in sequence
+Unsupported type: null
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+No Tilemap, refreshing GameManager
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 509 unused Assets to reduce memory usage. Loaded Objects now: 62660.
+Total: 90.389800 ms (FindLiveObjects: 5.471400 ms CreateObjectMapping: 2.848200 ms MarkObjects: 77.313500 ms  DeleteObjects: 4.756200 ms)
+
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Additively loaded scene: Grimm_Main_Tent_boss in sequence
+Unsupported type: null
+Object Pool attached to GlobalPool has run out of Grimm UP Ball prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Grimm UP Ball prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Grimm UP Ball prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Grimm UP Ball prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Grimm UP Ball prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+No Tilemap, refreshing GameManager
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 514 unused Assets to reduce memory usage. Loaded Objects now: 62739.
+Total: 89.828200 ms (FindLiveObjects: 6.164100 ms CreateObjectMapping: 2.635500 ms MarkObjects: 74.215500 ms  DeleteObjects: 6.812600 ms)
+
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Additively loaded scene: Grimm_Main_Tent_boss in sequence
+Unsupported type: null
+Unsupported type: null
+Unsupported type: null
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+No Tilemap, refreshing GameManager
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 515 unused Assets to reduce memory usage. Loaded Objects now: 62985.
+Total: 83.495400 ms (FindLiveObjects: 5.788300 ms CreateObjectMapping: 2.683300 ms MarkObjects: 71.608100 ms  DeleteObjects: 3.415200 ms)
+
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Coroutine couldn't be started because the the game object 'Arrow Prompt New(Clone)' is inactive!
+UnloadTime: 6.647600 ms
+No Tilemap, refreshing GameManager
+Using fallback 1 to find tilemap. Scene  requires manual fixing.
+Using fallback 2 to find tilemap. Scene  requires manual fixing.
+Failed to find tilemap in  entirely.
+No Tilemap found!
+Unloading 1023 unused Assets to reduce memory usage. Loaded Objects now: 57475.
+Total: 78.157400 ms (FindLiveObjects: 8.184200 ms CreateObjectMapping: 2.682300 ms MarkObjects: 63.149500 ms  DeleteObjects: 4.141200 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.196800 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+Performing automatic level start.
+Failed to retrieve achievement state for ENDING_C
+Failed to retrieve achievement state for STEELSOUL
+Game controller set to None.
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+pd.maxHealth: 8 pd.maxHealthBase: 8
+pd.maxHealth: 5 pd.maxHealthBase: 5
+Unloading 1032 unused Assets to reduce memory usage. Loaded Objects now: 49895.
+Total: 149.951100 ms (FindLiveObjects: 6.322300 ms CreateObjectMapping: 1.913300 ms MarkObjects: 70.907300 ms  DeleteObjects: 70.807900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 49897.
+Total: 81.427900 ms (FindLiveObjects: 10.526800 ms CreateObjectMapping: 2.309900 ms MarkObjects: 68.463000 ms  DeleteObjects: 0.127500 ms)
+
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for MASKED
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for BLESSED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for WORLDSOUL
+Failed to retrieve achievement state for FK_DEFEAT
+Failed to retrieve achievement state for DREAM_FK
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for DREAM_SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for ZOTE
+Failed to retrieve achievement state for NEGLECT
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for AWAKENING
+Failed to retrieve achievement state for ASCENSION
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for METAMORPHOSIS
+Failed to retrieve achievement state for NAILSMITH_KILL
+Failed to retrieve achievement state for NAILSMITH_SPARE
+Failed to retrieve achievement state for QUIRREL_EPILOGUE
+Failed to retrieve achievement state for MOURNER
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for STAG_STATION_ALL
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for ASCENSION
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Failed to retrieve achievement state for COLOSSEUM_3
+Failed to retrieve achievement state for ENDING_A
+Failed to retrieve achievement state for ENDING_B
+Failed to retrieve achievement state for ENDING_C
+Failed to retrieve achievement state for VOID
+Failed to retrieve achievement state for SPEEDRUN_1
+Failed to retrieve achievement state for SPEEDRUN_2
+Failed to retrieve achievement state for COMPLETION
+Failed to retrieve achievement state for SPEED_COMPLETION
+Failed to retrieve achievement state for STEELSOUL
+Failed to retrieve achievement state for STEELSOUL_COMPLETION
+Failed to retrieve achievement state for HUNTER_1
+Failed to retrieve achievement state for HUNTER_2
+Failed to retrieve achievement state for MR_MUSHROOM
+Failed to retrieve achievement state for WHITE_DEFENDER
+Failed to retrieve achievement state for GREY_PRINCE
+Failed to retrieve achievement state for GRIMM
+Failed to retrieve achievement state for NIGHTMARE_GRIMM
+Failed to retrieve achievement state for BANISHMENT
+Failed to retrieve achievement state for PANTHEON1
+Failed to retrieve achievement state for PANTHEON2
+Failed to retrieve achievement state for PANTHEON3
+Failed to retrieve achievement state for PANTHEON4
+Failed to retrieve achievement state for ENDINGD
+Failed to retrieve achievement state for COMPLETIONGG
+Shutting down Steam API.
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
