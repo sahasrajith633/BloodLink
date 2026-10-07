@@ -1,0 +1,421 @@
+Mono path[0] = 'I:/Medal/hollow knight/Hollow Knight/hollow_knight_Data/Managed'
+Mono config path = 'I:/Medal/hollow knight/Hollow Knight/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.61f1 (74a0adb02c31)
+[Subsystems] Discovering subsystems at path I:/Medal/hollow knight/Hollow Knight/hollow_knight_Data/UnitySubsystems
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x5912)
+    Vendor:   Intel
+    VRAM:     4040 MB
+    Driver:   31.0.101.2140
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  6.057 seconds
+- Finished resetting the current domain, in  0.031 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+Using Windows.Gaming.Input
+<RI> Input initialized.
+UnloadTime: 11.308300 ms
+Steam initializing
+Steam logged in as SteamRIP
+Selected online subsystem SteamOnlineSubsystem
+Couldn't find a Game Manager, make sure one exists in the scene.
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH, ZH_TW
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 4274.
+Total: 37.508000 ms (FindLiveObjects: 0.185000 ms CreateObjectMapping: 0.160700 ms MarkObjects: 37.098700 ms  DeleteObjects: 0.063000 ms)
+
+Couldn't find GameCameras, make sure one exists in the scene.
+Steam stats received.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Didn't need to wait for PlayerPrefs load.
+Couldn't find GameCameras, make sure one exists in the scene.
+UnloadTime: 22.574900 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+Performing automatic level start.
+Failed to retrieve achievement state for ENDING_C
+Failed to retrieve achievement state for STEELSOUL
+Game controller set to None.
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+pd.maxHealth: 8 pd.maxHealthBase: 8
+pd.maxHealth: 5 pd.maxHealthBase: 5
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 47392.
+Total: 63.800400 ms (FindLiveObjects: 5.960700 ms CreateObjectMapping: 1.801300 ms MarkObjects: 55.842500 ms  DeleteObjects: 0.195600 ms)
+
+Making UI menu lean.
+Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 51428.
+Total: 78.781100 ms (FindLiveObjects: 6.079800 ms CreateObjectMapping: 2.135100 ms MarkObjects: 69.279300 ms  DeleteObjects: 1.286600 ms)
+
+Attempting to update blur with no renderer. Will try to find it now...
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for AWAKENING
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+Could not find FSM: health_manager_enemy
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of HK Plume prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Ghost Hit Pt prefabs, Instantiating an additional one.
+Couldn't find current scene object!
+Object Pool attached to GlobalPool could not find a copy of Audio Player NoDestroy, Instantiating a new one.
+Unloading 47 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1066 unused Assets to reduce memory usage. Loaded Objects now: 60559.
+Total: 78.094600 ms (FindLiveObjects: 8.544900 ms CreateObjectMapping: 2.869800 ms MarkObjects: 64.172700 ms  DeleteObjects: 2.506900 ms)
+
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for AWAKENING
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Could not find FSM: health_manager_enemy
+Couldn't find current scene object!
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 317 unused Assets to reduce memory usage. Loaded Objects now: 60586.
+Total: 74.198200 ms (FindLiveObjects: 7.354000 ms CreateObjectMapping: 2.470000 ms MarkObjects: 63.178800 ms  DeleteObjects: 1.195100 ms)
+
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for AWAKENING
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Could not find FSM: health_manager_enemy
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+Couldn't find current scene object!
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 322 unused Assets to reduce memory usage. Loaded Objects now: 60840.
+Total: 83.776200 ms (FindLiveObjects: 12.308000 ms CreateObjectMapping: 3.675700 ms MarkObjects: 65.749700 ms  DeleteObjects: 2.042500 ms)
+
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for AWAKENING
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Could not find FSM: health_manager_enemy
+Object Pool attached to GlobalPool has run out of Nail Clash Effect prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+Couldn't find current scene object!
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 313 unused Assets to reduce memory usage. Loaded Objects now: 61280.
+Total: 75.372200 ms (FindLiveObjects: 7.825700 ms CreateObjectMapping: 2.570100 ms MarkObjects: 63.686500 ms  DeleteObjects: 1.289500 ms)
+
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for AWAKENING
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Could not find FSM: health_manager_enemy
+Object Pool attached to GlobalPool has run out of Shot HK Spurt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Ghost Hit Pt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Ghost Hit Pt prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Slash Effect Ghost1 prefabs, Instantiating an additional one.
+Couldn't find current scene object!
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+Unloading 47 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1067 unused Assets to reduce memory usage. Loaded Objects now: 61487.
+Total: 79.905000 ms (FindLiveObjects: 8.674600 ms CreateObjectMapping: 2.648600 ms MarkObjects: 65.846000 ms  DeleteObjects: 2.735400 ms)
+
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for AWAKENING
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Could not find FSM: health_manager_enemy
+Couldn't find current scene object!
+Object Pool attached to GlobalPool has run out of Audio Player NoDestroy prefabs, Instantiating an additional one.
+Unloading 47 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1076 unused Assets to reduce memory usage. Loaded Objects now: 61655.
+Total: 78.475100 ms (FindLiveObjects: 8.061600 ms CreateObjectMapping: 2.572600 ms MarkObjects: 64.243900 ms  DeleteObjects: 3.596800 ms)
+
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for AWAKENING
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+Failed to retrieve achievement state for MAP
+Failed to retrieve achievement state for STAG_STATION_HALF
+Failed to retrieve achievement state for GRUBFRIEND
+Failed to retrieve achievement state for CHARMED
+Failed to retrieve achievement state for ENCHANTED
+Failed to retrieve achievement state for SOULFUL
+Failed to retrieve achievement state for PROTECTED
+Failed to retrieve achievement state for ATTUNEMENT
+Failed to retrieve achievement state for AWAKENING
+Failed to retrieve achievement state for HORNET_1
+Failed to retrieve achievement state for HORNET_2
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+Failed to retrieve achievement state for BROKEN_VESSEL
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+Failed to retrieve achievement state for DUNG_DEFENDER
+Failed to retrieve achievement state for MANTIS_LORDS
+Failed to retrieve achievement state for COLLECTOR
+Failed to retrieve achievement state for TRAITOR_LORD
+Failed to retrieve achievement state for BEAST
+Failed to retrieve achievement state for WATCHER
+Failed to retrieve achievement state for TEACHER
+Failed to retrieve achievement state for COLOSSEUM_1
+Failed to retrieve achievement state for COLOSSEUM_2
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <89f741081c874c65b780dbd6a0d8d33e>:0 
+  at UnityEngine.Component.get_transform () [0x00006] in <89f741081c874c65b780dbd6a0d8d33e>:0 
+  at CameraController.ReleaseLock (CameraLockArea lockarea) [0x000de] in <3a907e0e6b454ce4a276a8885caacff4>:0 
+  at CameraLockArea.OnTriggerExit2D (UnityEngine.Collider2D otherCollider) [0x00167] in <3a907e0e6b454ce4a276a8885caacff4>:0 
+
+Shutting down Steam API.
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
